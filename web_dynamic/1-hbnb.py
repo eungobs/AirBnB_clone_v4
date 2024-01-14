@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Starts a Flash Web Application """
+"""S tarts a Flash Web Application """
 import uuid
 from os import environ
 from flask import Flask, render_template
